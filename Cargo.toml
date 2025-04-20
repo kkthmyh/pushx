@@ -2,6 +2,8 @@
 name = "pushx"
 version = "0.1.0"
 edition = "2024"
+description = "A simple unified push library for DingTalk, extendable to Feishu, etc."
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.98"
